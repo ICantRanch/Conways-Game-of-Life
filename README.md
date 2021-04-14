@@ -9,9 +9,9 @@ The file must be in the form of of 0's and 1's where a '1' represents a live cel
 rectangular prism, denoting a new row of cells with a new line.
 
 An Example:
-000000
-000000
-001110
-011100
-000000
-000000
+000000\n
+000000\n
+001110\n
+011100\n
+000000\n
+000000\n

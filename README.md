@@ -8,7 +8,7 @@ This program uses a file chooser so the user can use a preexisting pattern store
 The file must be in the form of of 0's and 1's where a '1' represents a live cell and must be a 
 rectangular prism, denoting a new row of cells with a new line.
 
-An Example:
+An Example:  
 000000  
 000000  
 001110  
